@@ -1,0 +1,14 @@
+bananinn	banana
+brauðið	bread
+fiskurinn	fish
+helgin	weekend
+hundurinn	dog
+hádegismaturinn	lunch
+kakan	cake
+kvikmyndin	the film
+laugardagurinn	Saturday
+morgunninn	morning
+osturinn	cheese
+safinn	juice
+smjörið	butter
+tölvan	computer
